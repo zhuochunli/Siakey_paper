@@ -1,7 +1,7 @@
 # Siakey_paper
-The python notebook code for the Siakey paper
-https://ieeexplore.ieee.org/abstract/document/10313362
+The python notebook code for the Siakey paper: https://ieeexplore.ieee.org/abstract/document/10313362
 
+```
 @inproceedings{li2023siakey,
   title={SiaKey: A Method for Improving Few-shot Learning with Clinical Domain Information},
   author={Li, Zhuochun and Thaker, Khushboo and He, Daqing},
@@ -10,3 +10,4 @@ https://ieeexplore.ieee.org/abstract/document/10313362
   year={2023},
   organization={IEEE}
 }
+```
